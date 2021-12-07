@@ -9,6 +9,6 @@ I've implemented A* pathfinding algorithm to find the best route with the help o
 
 ## Build & Run
 
-You can execute `gradle build` and then run the output jar located at `/build/libs`.
-I also prepared Dockerfile so you can also build the image and run the application.
-You also can run it with any supported IDE.
+* You can execute `gradle build` and then run the output jar located at `/build/libs` 
+* I also prepared Dockerfile so you can also build the image and run the application 
+* You also can run it with any supported IDE
